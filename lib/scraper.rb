@@ -23,4 +23,3 @@ Scraper.new.get_page
   #       puts "  Description: #{course.description}"
   #     end
   #   end
-
